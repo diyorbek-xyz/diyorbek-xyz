@@ -44,7 +44,7 @@ arch in ~
     <b>
     <a href="https://t.me/diyorbek_xyz">✈️ Telegram</a> |
     <a href="https://www.instagram.com/diyorbek.xyz">📷 Instagram</a> |
-    <a href="https://x.com/diyorbek_xyz">🐦 X</a> |
+    <a href="https://x.com/diyorbek_xyz">🐦 X</a>
     </b>
     <br>
   </sup>
