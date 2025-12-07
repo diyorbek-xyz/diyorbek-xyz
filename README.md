@@ -24,16 +24,16 @@
            .             ​  diyorbek@world
           .c.           ┌──────────────────────────────────┐ 
          .ccc.           ​ OS : Samijonov
-        .lllll.          ​ Kernel : NERD-DEV 0.33 
-       ..;'olll.         ​ WM : Hyprland 
-      .dolllcccl.        ​ Shell : fish
+        .lllll.          ​ Kernel : NERD-DEV 0.33
+       ..;'olll.         ​ WM : xfce
+      .dolllcccl.        ​ Shell : bash
      .lcc'   'ccc.       ​ Uptime : 16 years
     .ccc'     'cc:.      ​ CPU : IntelCore I3
    .cccc'     'c:;..    └──────────────────────────────────┘ 
   ."'             '".    D   I   Y   O   R   B   E   K   火
 
 arch in ~ 
-  λ echo "Never be Alone!"
+  λ echo "Hello world!"
 ```
 <br>
 <p align="center">
