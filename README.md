@@ -23,10 +23,10 @@
 
            .             ​  diyorbek@world
           .c.           ┌──────────────────────────────────┐ 
-         .ccc.           ​ OS : Samijonov
-        .lllll.          ​ Kernel : NERD-DEV 0.33
-       ..;'olll.         ​ WM : xfce
-      .dolllcccl.        ​ Shell : bash
+         .ccc.           ​ OS : Diyorbek
+        .lllll.          ​ Kernel : Samijonov
+       ..;'olll.         ​ WM : Hyprland
+      .dolllcccl.        ​ Shell : fish
      .lcc'   'ccc.       ​ Uptime : 16 years
     .ccc'     'cc:.      ​ CPU : IntelCore I3
    .cccc'     'c:;..    └──────────────────────────────────┘ 
