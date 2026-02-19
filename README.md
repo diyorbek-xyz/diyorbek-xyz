@@ -33,7 +33,8 @@
   ."'             '".    D   I   Y   O   R   B   E   K   火
 
 arch in ~ 
-  λ echo "Hello world!"
+  λ which user
+    /uzbekistan/fergana/rishtan/zohidon/user/bin
 ```
 <br>
 <p align="center">
