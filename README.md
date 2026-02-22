@@ -59,7 +59,7 @@ arch in ~
   <br>
   <sup>
     <b>
-      HTML | CSS | JS | TS | Tailwind CSS | React Js | Node Js | Git | Linux
+      HTML | CSS | JS | TS | Tailwind CSS | React Js | Next Js | Node Js | Git | Linux
     </b>
     <br>
   </sup>
